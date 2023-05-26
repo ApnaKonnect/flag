@@ -1,5 +1,7 @@
 {
     "maintenance": 0,
     "version": "1.2.13",
-    "app_link": "https://play.google.com/store/apps/details?id=com.apnakonnect"
+    "version_ios": "1.2.13",
+    "app_link": "https://play.google.com/store/apps/details?id=com.apnakonnect",
+    "app_link_ios": "https://apnakonnect.com"
 }
